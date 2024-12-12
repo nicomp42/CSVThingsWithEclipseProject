@@ -17,4 +17,4 @@ if __name__ == "__main__":
     print("# of collision type:", len(collisionTypes))
     print(collisionTypes)
     
-    
+    print("hello")
